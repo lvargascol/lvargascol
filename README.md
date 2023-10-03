@@ -5,8 +5,9 @@
 ```javascript
 const lvargascol = {
   name: 'Leonardo Vargas',
+  languages: ['JavaScript']
   technologies: {
-    frontEnd: ['HTML', 'CSS', 'Javascript', 'React', 'TailWind'],
+    frontEnd: ['HTML', 'CSS', 'React', 'TailWind'],
     backEnd: ['Node', 'Express'],
     databases: ['PostgreSQL', 'mySQL'],
     tools: ['GIT', 'GitHub'],
