@@ -8,9 +8,9 @@ const lvargascol = {
   languages: ['JavaScript'],
   technologies: {
     frontEnd: ['HTML', 'CSS', 'React', 'TailWind'],
-    backEnd: ['Node', 'Express'],
+    backEnd: ['NodeJS', 'Express'],
     databases: ['PostgreSQL', 'mySQL'],
-    tools: ['GIT', 'GitHub'],
+    tools: ['Git', 'GitHub'],
   },
   contact: {
     linkedin: 'lvargascol',
